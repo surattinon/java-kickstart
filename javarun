@@ -1,0 +1,3 @@
+#!/bin/bash
+javac -d src/classes src/main/*.java
+java -classpath src/classes main.App
